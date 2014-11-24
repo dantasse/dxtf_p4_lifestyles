@@ -50,3 +50,6 @@ Age: not a lot of young people <18 (9%). Population seems to be slowly aging, 14
 - Increasing professionalism of local businesses: as more hotels and national businesses have moved into the neighborhood, the carpenters and repair workers have gone out of business, replaced by larger contractors. This has been disruptive, as he's relied on his network for a while, but they are unavailable now.
 - Climate change: has not affected him directly, but indirectly made a lot of his life harder. Prices for fuel went up, winters are a little colder, summers a little warmer. Pittsburgh is pretty well located to avoid the worst. They did have a hurricane when he was 58, that was a new one.
 - Increasing cost of education: private school education has become ridiculously expensive. State schools have still done well though, so both his kids went to Penn State.
+
+### [Letter from the future](letter.html)
+
