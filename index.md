@@ -51,5 +51,16 @@ Age: not a lot of young people <18 (9%). Population seems to be slowly aging, 14
 - Climate change: has not affected him directly, but indirectly made a lot of his life harder. Prices for fuel went up, winters are a little colder, summers a little warmer. Pittsburgh is pretty well located to avoid the worst. They did have a hurricane when he was 58, that was a new one.
 - Increasing cost of education: private school education has become ridiculously expensive. State schools have still done well though, so both his kids went to Penn State.
 
-### [Letter from the future](letter.html)
+### [Conversation from the future](letter.html)
+
+Between Phil (successful 75 year old man) and his renter Jim.
+
+### Storyboard from the future
+
+Backstory:
+John, Phil's brother is the 32-year-old owner of a small Italian restaurant in 2014. Around 2020, started to lose business. Clientele getting older. Had to close in 2025. Worked for Kennametal as a business analyst for three years, but then they closed down too. As he was searching for a job, his wife Amy got breast cancer, and as they were uninsured, they got in a lot of debt. At the same time, in 2030, his kids were just getting ready to go to college, but he couldn't afford it. They went to community college in engineering and biology, but it was hard to find a job in Pittsburgh for his son Jared, the biologist, so his daughter Miranda, the engineer, ended up supporting the family.
+
+Now, at 72, their money's largely run out. They're able to support their home (bought cheap in the 2000s) so they're not in dire trouble, but they're scrambling to make ends meet. John's picking up small contract work out of his house. The kids have moved out and have grandkids. John's still in the Quaternary Club, which he joined as a kitschy thing in the 2000s, but it's become a primary socialization measure as he's grown. They get together to talk, drink coffee, play cards, and smoke weed from a vaporizer on a roof. Here, John converses with his neighbor Adam.
+
+[Storyboard pdf](storyboard.pdf)
 
