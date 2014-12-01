@@ -42,9 +42,10 @@ The circumstantial nature of the evidence does not yet warrant a charge or even 
 Current vehicle ownership records from the DMV:
 
     (RFQ82H), 2044: Road bicycle. Trek, 21 speed. Moderate condition. Green.
-    (RFQ82H), 2050: Hoverboard. Astral. Maximum speed 8mph.
+    (RFQ82H), 2050: Hoverboard. Astral, new. Maximum speed 8mph.
 
-Those are all of the vehicles registered under S's name. Nothing substantially motorized. S has only one bus trip on record. Yet, S has been averaging 19mph during solo travel, up from 15mph suddenly only four weks ago. You can see S's average speed weekly below.
+Those are all of the vehicles registered under S's name. Nothing substantially motorized. S has only one bus trip on record.
+S's average speed during solo travel (ASST) has increased from 15mph to 19mph, which is worrisome for two reasons. First, it is a sudden increase. Second, S is over 70 years old. A weekly graph of speed is below.
 
 <img src="graph.png" height='300px' />
 
